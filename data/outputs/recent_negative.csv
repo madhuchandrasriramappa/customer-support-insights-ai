@@ -1,0 +1,3 @@
+customer_name,email,message,date,ai_analysis
+Bob Smith,bob@example.com,The app keeps crashing a lot.,2025-06-21,"Category: Technical Issue
+Sentiment: Negative"
